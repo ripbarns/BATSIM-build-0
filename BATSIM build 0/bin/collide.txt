@@ -1,0 +1,6 @@
+# wall
+§ coin
+ flower
+ wood
+ stone
+~ water

@@ -1,0 +1,38 @@
+BATSIM
+
+build 0 (10032023)
+
+	Notes:
+		= First official release of BATSIM. In future updates the format of files, folders, and documents may change.
+		= Future updates will be made and hopefully released at least once a month at least and at most once a week.
+
+	Features Added:
+		= Added functional player and camera movement with collision.
+		= Added functional save files that can be loaded.
+		= Added functional random terrain and structure generation.
+		= Added functional settings menu to toggle light and dark mode.
+
+	Structures Added:
+		= Town Hall [T]
+		= Item Shop [I]
+
+	Blocks Added:
+		= Walls [#]
+		= Water [~]
+
+	Items Added:
+		= Coins [§]
+		= Flowers []
+		= Stone []
+		= Wood []
+
+	File Structure:
+		= BATSIM
+			= BATSIM.bat
+			= build.txt
+			= bin
+				= engine.bat
+				= nls.bat
+				= generator.bat
+				= collide.bat
+				= collide.txt
